@@ -63,4 +63,4 @@ Telegram频道传送门：整合优质Telegram频道资源，覆盖资讯、娱�
 
 按时间线整理圈内重大爆料，事件真实、脉络清晰，是吃瓜党的回顾宝典与舆情参考书。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/haha20250625/haha7）</span>
